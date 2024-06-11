@@ -1,0 +1,3 @@
+1 Ford Mustang 145.0 60
+2 Tesla ModelY 135.0 300 245
+3 Some Hibrid 125.8 35 Some Hibrid 125.8 250 200 260 150
